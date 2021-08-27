@@ -5,6 +5,6 @@ You can click the Preview link to take a look at your changes.
 <pre>
 Hello, I’m Teresa!
 Coffee enthusiast who loves chocolate. 🍫
-biomedical engineer | software engineer 👩🏻‍💻🧬
+BioEngineer | software engineer 👩🏻‍💻🧬
 @teresam856 🌻🐢
 </pre>
