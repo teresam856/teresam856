@@ -7,8 +7,4 @@ Hello, I’m Teresa!
 Coffee enthusiast who loves chocolate. 🍫
 bioengineer | software engineer 👩🏻‍💻🧬
 
-Hola, me llamo Teresa!
-Adicta al cafe y obsesionada con el chocolate. 🍫
-Ingeniera en sistemas y biologia. 👩🏻‍💻🧬
-@teresam856 🌻🐢
 </pre>
